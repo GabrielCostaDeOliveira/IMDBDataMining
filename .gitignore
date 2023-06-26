@@ -1,3 +1,5 @@
 environment.venv/bin
 environment.venv
 venv
+src/database_credentials.py
+src/__pycache__/database_credentials.cpython-311.pyc
