@@ -18,7 +18,7 @@ A documentação do projeto inclui o Diagrama de Entidade-Relacionamento (DER) e
 - Diagrama de Entidade-Relacionamento (DER):
 
 
-![Diagrama Conceitual](https://github.com/GabrielCostaDeOliveira/IMDBDataMining/tree/main/docs/Conceitual_sbd2_tf.png)
+<img src = "https://github.com/GabrielCostaDeOliveira/IMDBDataMining/tree/main/docs/Conceitual_sbd2_tf.png" alt = "Diagrama Conceitual" />
 
 
 - Diagrama Lógico de Dados (DLD):
