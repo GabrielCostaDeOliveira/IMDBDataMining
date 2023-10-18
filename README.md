@@ -17,7 +17,9 @@ A documentação do projeto inclui o Diagrama de Entidade-Relacionamento (DER) e
 
 - Diagrama de Entidade-Relacionamento (DER):
 
+
 ![Diagrama Conceitual](https://github.com/GabrielCostaDeOliveira/IMDBDataMining/tree/main/docs/Conceitual_sbd2_tf.png)
+
 
 - Diagrama Lógico de Dados (DLD):
 
@@ -29,7 +31,7 @@ Os resultados da mineração de dados estão representados na imagem a seguir:
 
 ![Resultados da Mineração](https://github.com/GabrielCostaDeOliveira/IMDBDataMining/blob/main/results/results.png)
 
-características que comtribuirm
+# características que contribuiram
 
 Com base na análise dos resultados, identificamos as características que influenciam a recomendação de um filme (nota acima de 7 no IMDb):
 
