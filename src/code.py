@@ -53,7 +53,6 @@ with engine.connect() as connection:
     movies = movies.join(genres, how='inner')
 
 
-print("aqui")
 
 # get avarege last movies
 with engine.connect() as connection:
@@ -166,4 +165,4 @@ sns.barplot(x=feature_imp, y=feature_imp.index)
 plt.title("Acurácia: " + str(precision))
 plt.xlabel('Relevância da característica')
 plt.ylabel('Características')
-plt.savefig('./results/teste.png')
+plt.savefig('./results/results.png')
