@@ -27,7 +27,7 @@ A documentação do projeto inclui o Diagrama de Entidade-Relacionamento (DER) e
 
 Os resultados da mineração de dados estão representados na imagem a seguir:
 
-![Resultados da Mineração](https://github.com/GabrielCostaDeOliveira/IMDBDataMining/blob/main/results/teste.png)
+![Resultados da Mineração](https://github.com/GabrielCostaDeOliveira/IMDBDataMining/blob/main/results/results.png)
 
 características que comtribuirm
 
